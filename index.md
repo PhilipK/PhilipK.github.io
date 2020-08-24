@@ -1,3 +1,3 @@
-# Hello World
+# PhilipK's devblog
 
-["This is another page"](/another_page.md)
+[1. Hello World](/1_hello_world)
